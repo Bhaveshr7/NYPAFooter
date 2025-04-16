@@ -1,0 +1,27 @@
+.social-media-container {
+    position: absolute;
+    width: 95px;
+    height: 24px;
+    top: 40px;
+    left: 1087px;
+    display: flex;
+    align-items: center;
+}
+
+.social-media-text {
+    font-family: 'Proxima Nova', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    width: 47px;
+    height: 18px;
+}
+
+.social-media-icon {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0px;
+    left: 71px;
+}

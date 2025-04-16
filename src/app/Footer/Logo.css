@@ -1,0 +1,30 @@
+.logo-container {
+    position: absolute;
+    width: 350px;
+    height: 94px;
+    top: 34px;
+    left: 264px;
+    background-color: #154973;
+}
+
+.logo-title {
+    position: absolute;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    font-family: 'Proxima Nova', sans-serif;
+    top: 0px;
+    left: 0px;
+}
+
+.logo-subtitle {
+    position: absolute;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 52px;
+    letter-spacing: 0%;
+    font-family: 'Proxima Nova', sans-serif;
+    top: 42px;
+    left: 0px;
+}

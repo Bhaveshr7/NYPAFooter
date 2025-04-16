@@ -1,0 +1,75 @@
+.the-latest-section {
+    position: absolute;
+    width: 242px;
+    height: 600px;
+    top: 173px;
+    left: 624px;
+    background-color: #154973;
+    flex-shrink: 0;
+}
+
+.latest-section {
+    position: absolute;
+    width: 187px;
+    height: 452px;
+    top: 0;
+    left: 0;
+}
+
+.latest-header {
+    position: absolute;
+    width: 136px;
+    height: 52px;
+    font-family: 'Proxima Nova', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 52px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.latest-list {
+    position: absolute;
+    width: 187px;
+    height: 400px;
+    top: 52px;
+    font-family: 'Proxima Nova', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    list-style: none;
+    color: white;
+}
+
+.library-section {
+    position: absolute;
+    width: 242px;
+    height: 132px;
+    top: 480px;
+    left: 0;
+}
+
+.library-header {
+    position: absolute;
+    width: 98px;
+    height: 52px;
+    font-family: 'Proxima Nova', sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 52px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.library-list {
+    position: absolute;
+    width: 242px;
+    height: 80px;
+    top: 60px;
+    font-family: 'Proxima Nova', sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 40px;
+    list-style: none;
+    color: white;
+}

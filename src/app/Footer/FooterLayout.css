@@ -1,0 +1,11 @@
+.footer-layout {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    align-items: flex-start; 
+    padding: 20px; 
+    background-color: #154973; 
+    color: white; 
+    font-family: 'Proxima Nova', sans-serif;
+}
