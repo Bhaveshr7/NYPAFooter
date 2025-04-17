@@ -1,21 +1,21 @@
 import React from 'react';
-import './SocialMedia.css';
+import './Share.css';
 
-const SocialMedia: React.FC = () => {
+const Share: React.FC = () => {
     return (
-        <div className="social-media-container">
+        <div className="share-container">
             {/* Text */}
-            <p className="social-media-text">
+            <p className="share-text">
                 Share
             </p>
             {/* Image */}
             <img
                 src="FooterImages/Vector.png"
                 alt="Share Icon"
-                className="social-media-icon"
+                className="share-icon"
             />
         </div>
     );
 };
 
-export default SocialMedia;
+export default Share;

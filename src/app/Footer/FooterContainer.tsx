@@ -1,6 +1,5 @@
 import React from 'react';
 import FooterLayout from './FooterLayout';
-import './FooterContainer.css';
 
 const FooterContainer: React.FC = () => {
     return (

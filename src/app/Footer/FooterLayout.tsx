@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from './Logo';
-import SocialMedia from './SocialMedia';
+import Share from './Share';
 import AboutSection from './AboutSection';
 import TheLatestSection from './TheLatestSection';
 import ServicesSection from './ServicesSection';
@@ -11,7 +11,7 @@ const FooterLayout: React.FC = () => {
     return (
         <div className="footer-layout">
             <Logo />
-            <SocialMedia />
+            <Share />
             <AboutSection />
             <TheLatestSection />
             <ServicesSection />
